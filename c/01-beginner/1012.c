@@ -1,5 +1,5 @@
 /**
- * link: https://www.urionlinejudge.com.br/judge/en/problems/view/1011
+ * link: https://www.urionlinejudge.com.br/judge/en/problems/view/1012
  * Author: Rafael Giordanno
  **/
 #include <stdio.h>
